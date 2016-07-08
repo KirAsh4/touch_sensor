@@ -1,0 +1,24 @@
+{
+  "name": "Magic-Mirror-Touch-Sensor",
+  "version": "0.1",
+  "description": "A simple, single touch sensor module that will broadcast to all other modules when triggered.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirAsh4/touch_sensor"
+  },
+  "keywords": [
+    "Magic Mirror",
+    "Touch Sensor",
+    "Module"
+  ],
+  "author": "KirAsh4",
+  "contributors": "https://github.com/KirAsh4/touch_sensor/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KirAsh4/touch_sensor/issues"
+  },
+  "homepage": "https://github.com/KirAsh4/touch_sensor#readme",
+  "dependencies": {
+    "onoff": "latest"
+    }
+}
